@@ -3,7 +3,6 @@
 ## José Miguel Marroquín (7690-23-16393)
 ## Juan José Marroquín (7690-23-16393)
 
-
 ´´´py
 
 import tkinter as tk
