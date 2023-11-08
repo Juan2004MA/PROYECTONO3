@@ -80,5 +80,6 @@ text = scrolledtext.ScrolledText(root, wrap=tk.WORD)
 text.pack(expand=True, fill="both")
 
 root.mainloop()
+```
 
 [presiona para ingresar a nuestro video](https://youtu.be/MXb7gCxh8d0?feature=shared )
